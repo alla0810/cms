@@ -161,7 +161,7 @@ function AddEmployee(response)
     
             ])
             .then( (response) => {    
-                console.log(response);
+//                console.log(response);
 
                 let first_name = response.first_name;
                 let last_name = response.last_name;

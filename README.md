@@ -1,13 +1,12 @@
 # CMS (Content Management System ) 
   * Author: Kyosook Shin
   * Author's Email: kyosook.shin@gmail.com  
-  * GitHub: https://github.com/alla0810/note_taker
-  * Heroku deploy: https://note-taker-for-you-081d407650f3.herokuapp.com/
+  * GitHub: https://github.com/alla0810/cms
   * screenshot  
 
-<img src='./public/assets/images/screen1.png' width="600">  
-<img src='./public/assets/images/screen2.png' width="600">
-
+<img src='./images/screen1.png' width="400">  
+<img src='./images/screen2.png' width="600">
+<img src='./images/screen3.png' width="300">  
 
 
 ## Source Code References
