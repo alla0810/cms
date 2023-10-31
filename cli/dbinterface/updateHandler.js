@@ -19,7 +19,7 @@ const db = mysql.createConnection(
 
 function UpdateEmployeeRole(response)
 {
-    console.log("UpdateEmployeeRole");
+//    console.log("UpdateEmployeeRole");
 
     console.log("\n");
     
@@ -27,7 +27,7 @@ function UpdateEmployeeRole(response)
     let employee_list = [];
 
     db.query(sql, function (err, results) {
-        console.log(results);
+        //console.log(results);
 
         for (let i=0; i<results.length; i++)
         {
